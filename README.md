@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on open-source web applications, frontend/UI projects, or anything that helps people learn and build useful tools
 - 📫 How to reach me: robert.lehotay02@gmail.com or robert.lehotay@icloud.com | [LinkedIn](https://www.linkedin.com/in/robert-lehotay) | [Portfolio](https://rbrtlht.tech)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I started coding because I wanted to make my own video game — now I build real-world apps and systems instead 🙂
+- ⚡ Fun fact: I started coding because I wanted to make my own video game. Now I build real-world apps and systems instead 🙂
